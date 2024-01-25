@@ -1,0 +1,7 @@
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\bin\Debug\ConsoleProject02.exe.config
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\bin\Debug\ConsoleProject02.exe
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\bin\Debug\ConsoleProject02.pdb
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\obj\Debug\ConsoleProject02.csproj.AssemblyReference.cache
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\obj\Debug\ConsoleProject02.csproj.CoreCompileInputs.cache
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\obj\Debug\ConsoleProject02.exe
+C:\Users\meand\Downloads\Project02\Project02\ConsoleProject02\ConsoleProject02\obj\Debug\ConsoleProject02.pdb
